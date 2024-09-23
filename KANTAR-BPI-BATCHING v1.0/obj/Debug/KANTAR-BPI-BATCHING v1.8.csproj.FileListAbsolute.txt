@@ -1,0 +1,46 @@
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\KANTAR-BPI-BATCHING v1.8.exe.config
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\KANTAR-BPI-BATCHING v1.8.exe
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\KANTAR-BPI-BATCHING v1.8.pdb
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\Google.Protobuf.dll
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\MySql.Data.dll
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\System.Buffers.dll
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\System.IO.Pipelines.dll
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\System.Memory.dll
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\ZstdSharp.dll
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\Google.Protobuf.pdb
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\Google.Protobuf.xml
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\MySql.Data.xml
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\System.Buffers.xml
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\System.IO.Pipelines.xml
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\System.Memory.xml
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\obj\Debug\KANTAR-BPI-BATCHING v1.8.csproj.AssemblyReference.cache
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\obj\Debug\KANTAR_BPI_BATCHING_v1._0.Form1.resources
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\obj\Debug\KANTAR_BPI_BATCHING_v1._0.Form2.resources
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\obj\Debug\KANTAR_BPI_BATCHING_v1._0.Form3.resources
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\obj\Debug\KANTAR_BPI_BATCHING_v1._0.MainForm.resources
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\obj\Debug\KANTAR_BPI_BATCHING_v1._0.Properties.Resources.resources
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\obj\Debug\KANTAR-BPI-BATCHING v1.8.csproj.GenerateResource.cache
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\obj\Debug\KANTAR-BPI-BATCHING v1.8.csproj.CoreCompileInputs.cache
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\obj\Debug\KANTAR-B.335F157A.Up2Date
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\obj\Debug\KANTAR-BPI-BATCHING v1.8.exe
+C:\Users\SW22\source\repos\KANTAR-BPI-BATCHING v1.0\KANTAR-BPI-BATCHING v1.0\obj\Debug\KANTAR-BPI-BATCHING v1.8.pdb
